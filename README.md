@@ -1,4 +1,4 @@
-# ProyectoBaseDatos
+# Proyecto Base De Datos
 Proyecto Para Base De Datos Con Django, Python
 Este Codigo Muestra Una Pagina Para Registros De Pokemon, Movimiento, Habilidad, Categoria, Tipo, Generacion, Grupo-Huevo
 donde puedes Crear, Editar, Asignar, Eliminar todo con base a SQLite Donde se guardan todas las tablas conectadas
